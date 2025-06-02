@@ -4,8 +4,8 @@ Telegram-бот для групповых чатов с анализом кон�
 
 ## Установка
 1. создать файл .env со всеми зависимостями:
-TELEGRAM_TOKEN=ваш токен бота
-OPENAI_API_KEY=ключ api
+- TELEGRAM_TOKEN=ваш токен бота
+- OPENAI_API_KEY=ключ api
 DB_NAME=group_bot.db
 RESPONSE_PROBABILITY=0.25
 CONTEXT_SIZE=5
