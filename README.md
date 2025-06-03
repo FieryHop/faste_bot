@@ -14,5 +14,4 @@ Telegram-бот для групповых чатов с анализом кон�
 2. Клонировать репозиторий:
 ```bash
 git clone https://github.com/FieryHop/faste_bot.git
-cd group-ai-bot
 
