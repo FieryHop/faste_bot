@@ -48,7 +48,7 @@ response = client.chat.completions.create(
 - TELEGRAM_TOKEN=ваш токен бота
 - OPENAI_API_KEY=ключ api
 - DB_NAME=group_bot.db
-- RESPONSE_PROBABILITY=0.3 # Вероятность ответа (0.25 = 25%)
+- RESPONSE_PROBABILITY=0.25 # Вероятность ответа (0.25 = 25%)
 - CONTEXT_SIZE=7           # Сохраняемых сообщений для анализа
 - MIN_RESPONSE_LENGTH=4     # Минимум сообщений для генерации ответа
 
